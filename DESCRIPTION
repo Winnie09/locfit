@@ -13,7 +13,7 @@ Author: Catherine Loader [aut],
   Andy Liaw [cre]
 Maintainer: Andy Liaw <andy_liaw@merck.com>
 Description: Local regression, likelihood and density estimation methods as described in the 1999 book by Loader.
-Depends: R (>= 4.1.0)
+Depends: R (>= 4.0.0)
 Imports: lattice
 Suggests: interp, gam
 License: GPL (>= 2)
